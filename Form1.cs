@@ -1,4 +1,4 @@
-﻿
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -60,6 +60,7 @@ namespace Semaphore_hw_WinForm
                 list.Items.Remove(text);
             }
         }
+        //muellim siz dediyiniz kimi isleyir ama niyese ele bilirem hersey sehvdi
         private void CreatedThreads_DoubleClick(object sender, EventArgs e)
         {
             if (CreatedThreads.SelectedItem != null)
@@ -80,6 +81,7 @@ namespace Semaphore_hw_WinForm
 
                     Thread.Sleep(2000);
                     semaphore.Release();
+                    RemoveFromList(WorkingThreads, $"{threadName} isleyir");
                 });
                 t1.IsBackground = true;
                 t1.Start();
