@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\bin\Debug\Semaphore_hw_WinForm.exe.config
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\bin\Debug\Semaphore_hw_WinForm.exe
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\bin\Debug\Semaphore_hw_WinForm.pdb
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\obj\Debug\Semaphore_hw_WinForm.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\obj\Debug\Semaphore_hw_WinForm.Form1.resources
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\obj\Debug\Semaphore_hw_WinForm.Properties.Resources.resources
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\obj\Debug\Semaphore_hw_WinForm.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\obj\Debug\Semaphore_hw_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\obj\Debug\Semaphore_hw_WinForm.exe
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\obj\Debug\Semaphore_hw_WinForm.pdb
+C:\Users\Acer\source\repos\Semaphore_hw_WinForm\Semaphore_hw_WinForm\obj\Debug\Semaphore_hw_WinForm.exe.config
