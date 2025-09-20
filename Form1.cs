@@ -60,7 +60,7 @@ namespace Semaphore_hw_WinForm
                 list.Items.Remove(text);
             }
         }
-        //muellim siz dediyiniz kimi isleyir ama niyese ele bilirem hersey sehvdi
+        //niyese ele bilirem hersey sehvdi
         private void CreatedThreads_DoubleClick(object sender, EventArgs e)
         {
             if (CreatedThreads.SelectedItem != null)
